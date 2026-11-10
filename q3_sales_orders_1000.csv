@@ -1,0 +1,1013 @@
+order_id,order_date,region,category,customer_type,unit_price,quantity,discount_pct,net_sales,returned
+ORD1582,2026-08-07,West,Electronics,Retail,120.0,8,0,960.0,No
+ORD1937,2026-07-28,West,Office Supplies,Retail,15.5,16,0,248.0,No
+ORD1170,2026-08-27,West,Furniture,Corporate,450.0,7,0,3150.0,No
+ORD1635,2026-07-01,South,Furniture,Retail,450.0,2,5,855.0,No
+ORD1357,2026-08-22,East,Electronics,Retail,120.0,5,10,540.0,No
+ORD1784,2026-08-11,North,Office Supplies,Corporate,15.5,38,10,530.1,No
+ORD1098,2026-09-09,south,Office Supplies,Retail,15.5,21,0,325.5,No
+ORD1974,2026-07-04,South,Office Supplies,Corporate,15.5,16,5,,Yes
+ORD1035,2026-07-25,South,Office Supplies,Retail,15.5,39,0,604.5,No
+ORD1722,2026-08-14,East,Electronics,Retail,120.0,6,5,684.0,No
+ORD1585,2026-09-10,North,Electronics,Retail,120.0,7,,798.0,No
+ORD1250,2026-09-21,North,Office Supplies,Retail,15.5,26,10,362.7,No
+ORD1037,24/07/2026,North,Electronics,Corporate,120.0,7,0,840.0,No
+ORD1618,2026-09-25,East,Furniture,Retail,450.0,1,10,405.0,
+ORD1505,26/09/2026,West,Office Supplies,Retail,15.5,19,15,250.32,No
+ORD1214,2026-08-25,North,Office Supplies,Corporate,15.5,27,15,355.72,N
+ORD1981,2026-09-28,West,Electronics,Retail,120.0,4,20,384.0,N
+ORD1630,2026-07-23,East,Furniture,Retail,450.0,9,0,4050.0,Yes
+ORD1267,08/08/2026,East,Furniture,Retail,450.0,8,10,3240.0,No
+ORD1194,20/07/2026,South,Furniture,Corporate,450.0,5,5,2137.5,No
+ORD1177,2026-09-27,South,Electronics,Corporate,120.0,5,15,510.0,No
+ORD1068,2026-09-22,East,Office Supplies,Corporate,15.5,11,10,153.45,No
+ORD1389,2026-09-27,West,Electronics,Corporate,120.0,6,15,612.0,No
+ORD1466,2026-08-31,East,Furniture,Corporate,450.0,10,15,3825.0,No
+ORD1859,2026-08-12,North,Electronics,Corporate,120.0,3,10,324.0,No
+ORD1026,2026-09-29,East,Electronics,Corporate,120.0,6,0,720.0,No
+ORD1581,2026-07-09,West,Furniture,Corporate,450.0,2,0,900.0,No
+ORD1889,2026-07-29,South,Office Supplies,Retail,15.5,32,0,496.0,No
+ORD1125,2026-08-30,North,Furniture,Retail,450.0,10,5,4275.0,No
+ORD1270,13/09/2026,South,Furniture,Corporate,450.0,7,0,3150.0,No
+ORD1964,2026-07-29,East,Office Supplies,Corporate,15.5,11,5,161.97,No
+ORD1742,2026-07-17,North,Office Supplies,Corporate,15.5,22,5,323.95,No
+ORD1399,2026-08-10,South,Electronics,Retail,120.0,3,5,342.0,No
+ORD1459,2026-09-02,North,Office Supplies,Retail,15.5,25,0,387.5,No
+ORD1697,2026-08-19,East,Furniture,Corporate,450.0,5,0,2250.0,No
+ORD1671,2026-07-02,East,Furniture,Corporate,450.0,5,0,2250.0,No
+ORD1643,2026-07-14,North,Electronics,Corporate,120.0,8,5,912.0,No
+ORD1654,2026-08-08,South,Office Supplies,Retail,15.5,11,10,153.45,No
+ORD1461,2026-08-01,East,Electronics,Corporate,120.0,1,0,120.0,No
+ORD1579,2026-08-02,East,Furniture,Retail,450.0,5,0,2250.0,No
+ORD1041,2026-07-13,North,Electronics,Retail,120.0,6,15,612.0,No
+ORD1116,23/07/2026,South,Office Supplies,Corporate,15.5,16,20,198.4,No
+ORD1112,2026-07-22,West,Furniture,Corporate,450.0,5,0,2250.0,No
+ORD1932,2026-09-04,East,Furniture,Corporate,450.0,1,0,450.0,No
+ORD1644,2026-09-08,West,Office Supplies,Retail,15.5,25,10,348.75,No
+ORD1776,2026-09-21,North,Electronics,Retail,120.0,9,15,918.0,No
+ORD1333,2026-07-11,East,Office Supplies,Corporate,15.5,10,0,155.0,N
+ORD1280,2026-09-06,North,Electronics,Retail,120.0,6,,648.0,No
+ORD1766,2026-07-09,West,Office Supplies,Retail,15.5,35,0,542.5,No
+ORD1208,2026-09-27,West,Office Supplies,Retail,15.5,33,0,511.5,No
+ORD1651,2026-07-17,West,Office Supplies,Corporate,15.5,22,10,306.9,No
+ORD1100,2026-08-05,East,Office Supplies,Retail,15.5,23,20,285.2,No
+ORD1841,2026-07-26,East,Electronics,Retail,120.0,3,5,342.0,No
+ORD1778,2026-09-07,North,Furniture,Retail,450.0,6,0,2700.0,No
+ORD1866,2026-07-27,South,Electronics,Corporate,120.0,8,5,912.0,No
+ORD1888,08/09/2026,North,Furniture,Corporate,450.0,10,15,3825.0,No
+ORD1075,2026-08-29,south,Electronics,Retail,120.0,10,15,1020.0,Yes
+ORD1885,2026-09-26,North,Office Supplies,Corporate,15.5,8,5,117.8,No
+ORD1463,2026-08-31,West,Furniture,Corporate,450.0,4,0,1800.0,No
+ORD1039,2026-08-03,North,Office Supplies,Retail,15.5,30,0,465.0,No
+ORD1762,2026-07-27,North,Electronics,Corporate,120.0,1,0,120.0,Y
+ORD1340,2026-09-27,East,Furniture,Corporate,450.0,1,0,450.0,No
+ORD1375,2026-07-18,North,Office Supplies,Corporate,15.5,27,20,334.8,No
+ORD1226,2026-07-24,West,Electronics,Corporate,120.0,8,0,960.0,No
+ORD1653,2026-09-02,North,Office Supplies,Corporate,15.5,39,10,544.05,No
+ORD1599,2026-07-02,East,Office Supplies,Corporate,15.5,15,10,209.25,No
+ORD1936,2026-09-30,North,Electronics,Corporate,120.0,9,0,1080.0,No
+ORD1056,12/08/2026,West,Electronics,Corporate,120.0,3,5,342.0,No
+ORD1899,2026-08-06,North,Electronics,Corporate,120.0,3,0,360.0,No
+ORD1538,2026-07-20,West,Furniture,Corporate,450.0,1,0,495.0,No
+ORD1337,2026-09-08,East,Electronics,Corporate,120.0,6,0,720.0,No
+ORD1216,2026-07-13,West,Furniture,Corporate,450.0,3,0,1350.0,No
+ORD1018,2026-08-03,West,Office Supplies,Retail,15.5,11,15,144.92,No
+ORD1243,2026-07-26,West,Electronics,Retail,120.0,6,5,684.0,No
+ORD1328,2026-08-17,North,Furniture,Corporate,450.0,8,10,3240.0,Yes
+ORD1057,2026-07-05,North,Furniture,Corporate,450.0,6,0,2700.0,N
+ORD1736,2026-09-25,East,Furniture,Retail,450.0,4,5,1710.0,No
+ORD1054,2026-08-09, West ,Office Supplies,Retail,15.5,17,0,263.5,No
+ORD1685,2026-08-05,East,Electronics,Retail,120.0,1,5,114.0,No
+ORD1843,2026-08-02,West,Electronics,,120.0,1,15,102.0,No
+ORD1797,2026-08-31,South,Electronics,Corporate,120.0,10,5,1140.0,No
+ORD1082,2026-07-03,East,Electronics,Corporate,120.0,4,10,432.0,No
+ORD1246,2026-08-27,South,Furniture,Retail,450.0,9,5,3847.5,N
+ORD1578,2026-09-26,North,Furniture,Retail,450.0,2,0,900.0,No
+ORD1515,2026-07-22,North,Electronics,Corporate,120.0,8,10,864.0,No
+ORD1865,2026-09-18,South,Office Supplies,Retail,15.5,19,5,279.77,No
+ORD1962,2026-09-24,SOUTH,Furniture,Retail,450.0,7,0,3150.0,No
+ORD1235,2026-09-16,East,Furniture,Retail,450.0,4,10,1620.0,No
+ORD1892,2026-07-12,North,Office Supplies,Retail,15.5,9,0,139.5,No
+ORD1279,2026-08-04,West,Office Supplies,Retail,15.5,20,0,310.0,No
+ORD1711,2026-09-12,South,Office Supplies,Corporate,15.5,25,10,348.75,No
+ORD1490,2026-08-28,North,Electronics,Retail,120.0,6,10,648.0,No
+ORD1076,2026-09-12,South,Electronics,Retail,120.0,7,15,714.0,No
+ORD1810,2026-07-28,East,Furniture,Retail,450.0,7,10,2835.0,No
+ORD1503,2026-08-30,West,Office Supplies,Retail,15.5,15,10,209.25,N
+ORD1189,2026-08-01,South,Furniture,Retail,450.0,5,10,2025.0,No
+ORD1256,2026-07-16,South,Electronics,Retail,120.0,5,15,510.0,No
+ORD1282,2026-08-30,South,Electronics,Corporate,120.0,6,0,720.0,No
+ORD1598,2026-09-14,East,Electronics,,120.0,9,0,1080.0,No
+ORD1895,2026-07-30,West,Furniture,Retail,450.0,10,0,4500.0,No
+ORD1119,28/08/2026,North,Electronics,Retail,120.0,7,15,714.0,No
+ORD1103,2026-08-06,South,Furniture,Retail,450.0,1,0,450.0,No
+ORD1448,2026-08-19,South,Office Supplies,Corporate,15.5,16,0,248.0,No
+ORD1055,09/07/2026,West,Electronics,Corporate,120.0,7,10,756.0,No
+ORD1476,2026-09-03,East,Electronic,Retail,450.0,10,0,4500.0,No
+ORD1802,2026-08-11,East,Office Supplies,Retail,15.5,30,0,465.0,No
+ORD1800,2026-08-13,North,Office Supplies,Retail,15.5,32,5,471.2,No
+ORD1795,2026-07-19,West,Furniture,Corporate,450.0,7,0,3150.0,No
+ORD1283,2026-07-12,East,Electronics,Corporate,120.0,1,15,102.0,No
+ORD1118,2026-08-12,South,Furniture,Corporate,450.0,7,10,2835.0,No
+ORD1168,09/09/2026,East,Electronics,Retail,120.0,5,5,570.0,No
+ORD1367,2026-09-05,North,Electronics,Retail,120.0,8,0,960.0,No
+ORD1077,2026-08-23,East,Office Supplies,Corporate,15.5,19,5,279.77,No
+ORD1659,2026-09-19,West,Office Supplies,Corporate,15.5,26,10,362.7,No
+ORD1411,2026-07-20,East,Electronics,Corporate,120.0,2,0,240.0,No
+ORD1911,2026-08-24,East,Furniture,Corporate,450.0,10,0,4500.0,No
+ORD1374,2026-09-12,South,Electronics,Corporate,120.0,3,5,342.0,No
+ORD1321,29/08/2026,North,Office Supplies,Retail,15.5,25,15,329.38,No
+ORD1316,2026-08-27,West,Electronics,Corporate,120.0,4,0,480.0,No
+ORD1604,2026-09-08,East,Electronics,Retail,120.0,10,10,1080.0,No
+ORD1631,2026-09-15,East,Office Supplies,Corporate,15.5,7,0,108.5,No
+ORD1204,2026-09-26,West,Electronics,Corporate,120.0,9,10,972.0,No
+ORD1748,2026-08-10,South,Office Supplies,Retail,15.5,39,5,574.27,No
+ORD1986,2026-07-31,South,Office Supplies,Retail,15.5,33,5,485.92,No
+ORD1392,2026-09-09,East,Furniture,Retail,450.0,6,15,2295.0,No
+ORD1162,2026-07-17,East,Office Supplies,Retail,15.5,6,0,93.0,No
+ORD1958,2026-08-01,North,Electronics,Retail,120.0,2,15,204.0,No
+ORD1676,2026-08-27,South,Furniture,Retail,450.0,1,0,450.0,No
+ORD1523,2026-07-15,West,Office supplies,Corporate,450.0,5,10,2025.0,No
+ORD1160,2026-07-17,West,Electronics,Corporate,120.0,9,0,1080.0,No
+ORD1078,2026-09-01,North,Electronics,Corporate,120.0,7,10,756.0,No
+ORD1557,2026-08-11,East,Office Supplies,Retail,15.5,31,10,432.45,No
+ORD1264,2026-08-13,East,Electronics,Retail,120.0,10,5,1140.0,No
+ORD1308,2026-08-27,East,Office Supplies,Retail,15.5,7,0,108.5,No
+ORD1603,2026-09-22,South,Office Supplies,Retail,15.5,22,10,306.9,No
+ORD1404,2026-07-04,West,Office Supplies,Retail,15.5,38,5,559.55,No
+ORD1182,2026-07-28,West,Electronics,Retail,120.0,5,10,540.0,No
+ORD1474,2026-09-14,North,Electronics,Retail,120.0,9,0,1080.0,No
+ORD1372,2026-09-18,North,Office Supplies,Corporate,15.5,10,10,139.5,No
+ORD1286,2026-08-28,West,Furniture,Retail,450.0,3,15,1147.5,No
+ORD1560,2026-07-19,West,Office Supplies,Retail,15.5,39,0,604.5,No
+ORD1857,2026-09-17,North,Office Supplies,Retail,15.5,30,0,465.0,No
+ORD1183,2026-09-06,East,Electronics,Retail,120.0,10,0,1200.0,N
+ORD1641,2026-09-12,South,Office Supplies,Corporate,15.5,17,5,250.32,No
+ORD1559,2026-07-07,East,Electronics,Corporate,120.0,3,20,288.0,No
+ORD1260,2026-08-06,South,Office Supplies,Corporate,15.5,35,0,542.5,Yes
+ORD1061,2026-08-09, East ,Electronics,Corporate,120.0,9,0,1080.0,No
+ORD1918,2026-08-16,East,Furniture,Corporate,450.0,8,20,2880.0,No
+ORD1728,2026-08-06,North,Office Supplies,Retail,15.5,34,10,474.3,Yes
+ORD1785,2026-07-05,South,Office Supplies,Retail,15.5,5,0,77.5,Yes
+ORD1846,2026-09-27,West,Furniture,Retail,450.0,6,10,2430.0,No
+ORD1401,2026-07-20,West,Furniture,Retail,450.0,4,0,1800.0,No
+ORD1719,2026-09-28,North,Electronics,Retail,120.0,8,0,960.0,No
+ORD1477,2026-08-27,North,Office Supplies,Corporate,15.5,17,0,263.5,No
+ORD1930,2026-07-30,South,Electronics,Corporate,120.0,7,10,756.0,No
+ORD1471,2026-09-01,West,Electronics,Corporate,120.0,7,5,798.0,No
+ORD1942,2026-08-30,West,Electronics,Retail,120.0,8,10,864.0,No
+ORD1935,2026-09-17,North,Furniture,Retail,450.0,10,10,4050.0,No
+ORD1435,2026-07-23,North,Furniture,Retail,450.0,9,0,4050.0,No
+ORD1409,2026-08-20,East,Furniture,Retail,450.0,7,0,3150.0,N
+ORD1398,2026-08-24,East,Furniture,retail,450.0,2,10,810.0,N
+ORD1008,2026-07-30,West,Electronics,Retail,120.0,6,0,720.0,No
+ORD1025,2026-08-01,North,Electronics,Retail,120.0,4,5,456.0,Yes
+ORD1831,2026-07-06,North,Furniture,retail,450.0,7,5,2992.5,No
+ORD1563,2026-09-26,South,Furniture,Retail,450.0,5,0,2250.0,No
+ORD1458,2026-09-11,North,Furniture,Corporate,450.0,10,0,4500.0,No
+ORD1590,2026-07-17,East,Electronics,Retail,120.0,2,15,204.0,No
+ORD1586,2026-08-09,North,Office Supplies,Corporate,15.5,18,0,279.0,No
+ORD1361,2026-09-21,South,Office Supplies,Corporate,15.5,32,0,496.0,No
+ORD1255,2026-08-14, West ,Electronics,Retail,120.0,9,0,1080.0,No
+ORD1355,2026-07-15,West,Electronics,Corporate,120.0,3,10,324.0,No
+ORD1943,2026-09-05,East,Electronics,Retail,,7,10,756.0,No
+ORD1332,2026-08-17, West ,Furniture,Retail,450.0,4,0,1800.0,No
+ORD1537,2026-09-18,North,Office Supplies,Retail,15.5,27,10,376.65,No
+ORD1740,2026-07-16,North,Office Supplies,Retail,15.5,6,10,83.7,No
+ORD1984,2026-09-20,West,Electronics,Corporate,120.0,2,10,216.0,Yes
+ORD1922,2026-07-24,West,Furniture,Retail,450.0,6,15,2295.0,No
+ORD1910,2026-09-10,North,Office Supplies,Retail,15.5,31,10,432.45,No
+ORD1655,2026-08-02,South,Furniture,Retail,450.0,6,0,2700.0,No
+ORD1914,2026-07-18,North,Office Supplies,Retail,15.5,36,0,558.0,No
+ORD1299,2026-08-29,East,Electronics,Retail,120.0,5,10,540.0,No
+ORD1898,07/07/2026,North,Electronics,Corporate,120.0,10,15,1020.0,No
+ORD1959,2026-07-22,North,Electronics,Retail,120.0,7,5,798.0,No
+ORD1439,2026-08-12,North,Office Supplies,Retail,15.5,32,10,446.4,No
+ORD1847,2026-07-08,East,Office Supplies,Retail,15.5,39,15,513.82,No
+ORD1380,2026-07-06,West,Furniture,Retail,450.0,7,0,3150.0,No
+ORD1438,2026-07-09,North,Furniture,Corporate,450.0,2,15,765.0,No
+ORD1058,2026-07-15,South,Furniture,Retail,450.0,7,0,3150.0,No
+ORD1185,2026-07-23,North,Furniture,Retail,450.0,9,,3645.0,No
+ORD1904,2026-09-12,East,Office Supplies,Corporate,15.5,33,0,511.5,No
+ORD1661,2026-09-29,South,Furniture,Retail,450.0,8,10,3240.0,No
+ORD1452,2026-09-17,North,Electronics,Corporate,120.0,6,0,720.0,No
+ORD1245,2026-09-06,South,Furniture,Retail,450.0,3,20,1080.0,No
+ORD1263,2026-08-05,WEST,Furniture,Corporate,450.0,3,20,1080.0,No
+ORD1462,2026-08-23,West,Office Supplies,Retail,15.5,29,0,449.5,No
+ORD1210,2026-08-30,West,Electronics,Corporate,120.0,10,20,960.0,No
+ORD1391,2026-08-20,North,Furniture,Retail,450.0,5,0,2250.0,N
+ORD1851,2026-09-08,East,Furniture,Corporate,450.0,8,20,2880.0,Yes
+ORD1898,07/07/2026,North,Electronics,Corporate,120.0,10,15,1020.0,No
+ORD1111,2026-08-24,North,Furnture,Retail,120.0,5,10,540.0,No
+ORD1327,2026-07-01,South,Office Supplies,Retail,15.5,14,0,217.0,No
+ORD1614,2026-07-22,East,Electronics,Retail,120.0,10,0,1200.0,No
+ORD1667,2026-08-30,South,Office Supplies,Corporate,15.5,40,0,620.0,No
+ORD1714,2026-07-16,West,Electronics,Corporate,120.0,10,15,1020.0,No
+ORD1812,2026-07-19,East,Furniture,Retail,450.0,3,0,1350.0,No
+ORD1110,2026-08-28,North,Electronics,Retail,120.0,10,10,1080.0,No
+ORD1341,2026-07-10,SOUTH,Office Supplies,Corporate,15.5,30,20,372.0,No
+ORD1794,2026-09-28,South,Furniture,Corporate,450.0,8,5,3420.0,No
+ORD1314,2026-07-31,West,Electronics,Corporate,120.0,8,15,816.0,No
+ORD1832,2026-08-04,South,Electronics,Retail,120.0,10,0,1200.0,No
+ORD1688,2026-09-07,West,Electronics,Retail,120.0,9,20,864.0,No
+ORD1421,2026-08-17,North,Office Supplies,Retail,15.5,19,10,265.05,No
+ORD1137,2026-07-06,SOUTH,Electronics,Retail,120.0,7,0,840.0,No
+ORD1351,2026-07-14,North,Electronics,Retail,120.0,10,0,1200.0,No
+ORD1820,2026-08-30,East,Electronics,Retail,120.0,5,0,600.0,Yes
+ORD1680,2026-09-08,South,Electronics,,120.0,7,10,756.0,No
+ORD1509,2026-08-22,West,Office Supplies,Corporate,15.5,14,0,217.0,No
+ORD1687,2026-08-13,WEST,Office Supplies,Corporate,15.5,8,0,124.0,No
+ORD1623,2026-09-07,South,Electronics,Retail,120.0,7,10,756.0,No
+ORD1071,2026-09-03,South,Office Supplies,Retail,15.5,15,10,209.25,No
+ORD1201,2026-09-25,South,Electronics,Corporate,120.0,10,15,1020.0,No
+ORD1187,2026-09-12,South,Furniture,Corporate,450.0,5,0,2250.0,Yes
+ORD1965,2026-09-11,West,Furniture,Retail,450.0,2,15,765.0,No
+ORD1478,2026-09-26,South,Office Supplies,Corporate,15.5,21,0,325.5,No
+ORD1592,2026-08-10,West,Electronics,Retail,120.0,4,10,432.0,No
+ORD1339,2026-09-11,West,Electronics,Corporate,120.0,6,10,648.0,No
+ORD1067,2026-08-23,West,Furniture,Corporate,450.0,7,5,2992.5,No
+ORD1231,2026-08-24,North,Furniture,Corporate,450.0,9,0,4050.0,No
+ORD1792,2026-08-24,South,Office Supplies,Corporate,15.5,33,5,485.92,No
+ORD1191,2026-09-21,West,Electronics,retail,120.0,4,5,456.0,Yes
+ORD1798,2026-08-21,West,Office Supplies,Retail,15.5,9,10,125.55,No
+ORD1601,2026-08-15,North,Office Supplies,Retail,15.5,21,0,325.5,Yes
+ORD1957,2026-08-13,South,Furniture,Corporate,450.0,7,0,3150.0,No
+ORD1045,2026-07-27,East,Office Supplies,Retail,15.5,21,15,,No
+ORD1512,2026-08-24,South,Office Supplies,Retail,15.5,7,5,103.07,No
+ORD1696,2026-07-17,North,Electronics,Retail,120.0,4,0,480.0,No
+ORD1305,2026-08-08,South,Office Supplies,Retail,15.5,29,10,404.55,No
+ORD1173,2026-09-10,East,Office Supplies,Retail,15.5,32,,421.6,No
+ORD1329,2026-09-07,East,Electronics,Retail,120.0,5,5,570.0,No
+ORD1873,2026-07-26,South,Electronics,Retail,120.0,5,0,600.0,N
+ORD1862,2026-08-30,East,Electronics,Corporate,120.0,9,5,1026.0,No
+ORD1727,19/07/2026,East,Office Supplies,Retail,15.5,38,0,589.0,No
+ORD1522,2026-09-16,East,Furniture,Corporate,450.0,9,10,3645.0,No
+ORD1670,2026-08-03,North,Electronics,Retail,120.0,3,0,360.0,N
+ORD1834,2026-08-10,East,Office Supplies,Corporate,15.5,5,0,77.5,No
+ORD1608,2026-09-23,North,Office Supplies,Corporate,15.5,35,10,488.25,No
+ORD1775,2026-07-23,North,Office Supplies,corporate,15.5,35,15,461.12,No
+ORD1319,2026-08-31,West,Office Supplies,Corporate,15.5,30,15,395.25,No
+ORD1223,2026-09-20,South,Electronics,Corporate,120.0,6,10,648.0,No
+ORD1545,2026-09-18,East,Office Supplies,Retail,15.5,33,0,511.5,No
+ORD1750,2026-09-07,South,Office Supplies,Retail,15.5,38,10,530.1,N
+ORD1407,2026-07-17,South,Office Supplies,Retail,15.5,39,10,544.05,No
+ORD1675,2026-08-04,South,Office Supplies,Retail,15.5,23,0,356.5,No
+ORD1849,2026-07-25,South,Electronics,Retail,120.0,6,5,684.0,No
+ORD1492,2026-08-30,East,Electronics,Retail,120.0,5,10,540.0,No
+ORD1004,2026-07-01,West,Electronics,Retail,120.0,5,0,600.0,No
+ORD1304,2026-07-23,West,Electronics,Retail,120.0,4,10,432.0,No
+ORD1565,2026-09-16,North,furniture ,Retail,15.5,33,0,511.5,No
+ORD1269,2026-09-27,East,Furniture,Retail,450.0,10,5,4275.0,No
+ORD1806,2026-09-25,South,Office Supplies,Retail,15.5,27,20,334.8,No
+ORD1186,2026-07-10,South,Office Supplies,Retail,15.5,34,15,447.95,No
+ORD1393,2026-07-06,NORTH,Office Supplies,Retail,15.5,12,15,158.1,No
+ORD1376,2026-07-25,West,Office Supplies,Retail,15.5,36,0,558.0,No
+ORD1437,2026-08-17,East,Office Supplies,retail,15.5,21,15,276.68,No
+ORD1365,2026-07-27,East,Electronics,Retail,120.0,8,0,960.0,No
+ORD1845,2026-09-01,South,Furniture,Corporate,450.0,2,5,855.0,Yes
+ORD1360,2026-07-14,West,Office Supplies,Retail,15.5,7,5,103.07,No
+ORD1281,2026-07-18,North,Furniture,Corporate,450.0,7,10,2835.0,No
+ORD1856,2026-07-13,South,Electronics,Retail,120.0,2,0,240.0,No
+ORD1710,2026-07-20,north,Electronics,Retail,120.0,4,0,480.0,No
+ORD1867,06/07/2026,North,Electronics,Retail,120.0,5,0,600.0,No
+ORD1877,2026-08-01,North,Furniture,Retail,450.0,10,15,3825.0,No
+ORD1494,2026-09-25,North,Office Supplies,Retail,15.5,5,5,73.62,No
+ORD1482,06/08/2026,West,Office Supplies,Corporate,15.5,21,0,325.5,No
+ORD1722,2026-08-14,East,Electronics,Retail,120.0,6,5,684.0,No
+ORD1237,2026-07-10,East,Furniture,Retail,450.0,5,0,2250.0,No
+ORD1747,2026-08-11,West,Office Supplies,Retail,15.5,7,5,103.07,No
+ORD1479,09/07/2026,North,Furniture,Retail,450.0,5,5,2137.5,No
+ORD1091,2026-08-04,East,Office Supplies,Corporate,15.5,34,0,527.0,No
+ORD1199,2026-08-01,East,Office Supplies,Retail,15.5,15,0,232.5,No
+ORD1184,2026-07-28,West,Office Supplies,Retail,15.5,12,0,186.0,No
+ORD1912,2026-08-30,West,Furniture,Retail,450.0,10,10,4050.0,No
+ORD1181,2026-07-07,East,Electronics,Corporate,120.0,8,5,912.0,No
+ORD1738,26/09/2026,West,Office Supplies,Retail,15.5,38,20,471.2,No
+ORD1712,2026-09-27,East,Office Supplies,Retail,15.5,24,0,372.0,No
+ORD1016,2026-08-29,East,Office Supplies,Corporate,15.5,5,10,69.75,No
+ORD1827,2026-08-26,East,Electronics,Retail,120.0,6,0,720.0,No
+ORD1040,2026-08-28,South,Office Supplies,Retail,15.5,34,5,500.65,No
+ORD1555,2026-08-10,East,Office Supplies,Corporate,15.5,17,0,263.5,No
+ORD1352,2026-08-26,South,Office Supplies,Corporate,15.5,13,0,201.5,No
+ORD1202,2026-09-13,East,Office Supplies,Retail,15.5,30,0,465.0,No
+ORD1251,2026-07-04,North,Office Supplies,Corporate,15.5,21,10,292.95,No
+ORD1345,2026-07-14,North,Office Supplies,Retail,15.5,22,0,341.0,No
+ORD1915,13/09/2026,South,Furniture,Retail,450.0,1,10,405.0,No
+ORD1966,2026-08-08,South,Furniture,Retail,450.0,7,0,3150.0,No
+ORD1005,2026-08-13,North,Electronics,Retail,120.0,6,,684.0,No
+ORD1535,2026-08-22,South,Electronics,Corporate,120.0,1,10,108.0,No
+ORD1987,2026-09-21,South,Electronics,Corporate,120.0,8,5,912.0,No
+ORD1002,2026-09-08,North,Furniture,Retail,450.0,4,0,1800.0,No
+ORD1069,2026-09-28,East,Electronics,Retail,120.0,2,5,228.0,No
+ORD1683,2026-07-06,East,Furniture,Retail,450.0,8,5,3420.0,No
+ORD1703,2026-09-20,East,Office Supplies,Corporate,15.5,32,15,463.76,No
+ORD1236,19/08/2026,West,Electronics,Retail,120.0,8,15,816.0,No
+ORD1416,2026-07-09,South,Office Supplies,Corporate,15.5,36,5,530.1,No
+ORD1546,2026-07-29,North,Electronics,Corporate,120.0,5,5,570.0,No
+ORD1773,2026-09-20,North,Electronics,Corporate,120.0,5,0,600.0,No
+ORD1823,2026-09-03,North,Office Supplies,Retail,15.5,22,0,341.0,No
+ORD1652,18/08/2026,North,Office Supplies,Corporate,15.5,35,10,488.25,No
+ORD1649,2026-09-09,South,Electronics,Corporate,120.0,6,0,720.0,No
+ORD1594,2026-08-09,South,Electronics,Corporate,120.0,2,10,216.0,No
+ORD1734,2026-08-02,West,Office Supplies,Corporate,15.5,6,15,79.05,No
+ORD1473,2026-07-08,North,Office Supplies,Retail,15.5,27,10,376.65,No
+ORD1390,2026-07-12,East,Furniture,Corporate,450.0,6,15,2295.0,No
+ORD1540,2026-08-12,West,Electronics,Retail,120.0,7,0,756.0,No
+ORD1609,2026-09-14,North,Office Supplies,Retail,15.5,7,0,108.5,No
+ORD1222,2026-09-06,East,Office Supplies,Retail,15.5,6,0,93.0,No
+ORD1613,2026-08-22,East,Office Supplies,Corporate,15.5,16,5,235.6,No
+ORD1737,2026-08-09,West,Electronics,Retail,120.0,4,10,432.0,No
+ORD1826,2026-07-19,East,Office Supplies,Corporate,15.5,31,10,432.45,
+ORD1701,2026-07-28,west,Electronics,Corporate,120.0,9,0,1080.0,No
+ORD1510,2026-07-11,South,Furniture,Retail,450.0,1,0,450.0,No
+ORD1423,2026-07-02,South,Furnture,Corporate,120.0,10,0,1200.0,No
+ORD1154,2026-07-06,West,Electronics,Retail,120.0,2,0,240.0,No
+ORD1036,2026-07-07,East,Furniture,Corporate,450.0,3,0,1350.0,No
+ORD1289,2026-08-21,West,Furniture,Retail,450.0,2,0,900.0,No
+ORD1817,2026-07-11,North,Office Supplies,Corporate,15.5,22,5,323.95,N
+ORD1083,2026-09-22,North,Electronics,Retail,120.0,1,5,114.0,No
+ORD1446,2026-09-06,South,Furniture,Retail,450.0,3,0,1350.0,No
+ORD1145,2026-09-25,West,Office Supplies,Corporate,15.5,13,15,171.28,No
+ORD1262,2026-09-11,East,Electronics,Retail,120.0,7,5,798.0,N
+ORD1900,2026-08-10,East,Furniture,Retail,450.0,4,5,1710.0,Yes
+ORD1770,2026-09-02,East,Furniture,Retail,450.0,3,15,1147.5,No
+ORD1876,2026-09-05,South,Office Supplies,Retail,15.5,34,0,527.0,No
+ORD1180,2026-08-11,West,Furniture,Retail,450.0,1,0,450.0,No
+ORD1195,2026-07-10,South,Furniture,Retail,450.0,5,0,2250.0,No
+ORD1963,2026-07-10,West,Furniture,Retail,450.0,1,0,450.0,No
+ORD1616,2026-09-16,North,Furniture,Corporate,450.0,1,15,382.5,No
+ORD1140,2026-08-29,West,Office Supplies,Retail,15.5,33,15,434.77,No
+ORD1247,2026-07-17,South,Office Supplies,Retail,15.5,12,5,176.7,No
+ORD1417,2026-09-02,West,Electronics,Retail,120.0,2,20,192.0,No
+ORD1706,2026-08-11,East,Furniture,Retail,450.0,9,15,3442.5,No
+ORD1086,2026-07-04,West,Furniture,Corporate,450.0,7,0,1575.0,No
+ORD1335,2026-08-12,East,Office Supplies,Retail,15.5,38,15,500.65,No
+ORD1949,18/09/2026,East,Office Supplies,Corporate,15.5,38,10,530.1,No
+ORD1779,2026-07-04,South,Electronics,Retail,120.0,3,5,342.0,No
+ORD1549,2026-08-23,North,Furniture,Corporate,450.0,2,10,810.0,No
+ORD1001,2026-09-20,North,Office Supplies,Retail,15.5,13,10,181.35,No
+ORD1861,2026-09-01,North,Electronics,Corporate,120.0,10,15,1020.0,No
+ORD1232,2026-08-11,East,Electronics,Corporate,120.0,7,0,840.0,No
+ORD1805,2026-08-07,South,Furniture,Retail,450.0,6,0,2700.0,No
+ORD1305,2026-08-08,South,Office Supplies,Retail,15.5,29,10,404.55,No
+ORD1276,2026-09-27,East,Electronics,Retail,120.0,5,0,600.0,No
+ORD1717,2026-09-12,East,Electronics,Retail,120.0,7,0,840.0,No
+ORD1418,2026-07-15,North,Furniture,Retail,450.0,1,0,450.0,No
+ORD1901,2026-08-10,West,Electronics,Retail,120.0,3,5,342.0,No
+ORD1322,2026-08-22,North,Office Supplies,Corporate,15.5,6,0,93.0,No
+ORD1406,2026-09-02,East,Electronics,Corporate,120.0,1,20,96.0,No
+ORD1767,2026-08-05,South,Furniture,Retail,450.0,4,5,1710.0,No
+ORD1257,2026-08-23,North,Office Supplies,Retail,15.5,25,15,329.38,No
+ORD1326,2026-09-08,West,Office Supplies,Retail,15.5,9,20,111.6,No
+ORD1427,2026-09-01,West,Office Supplies,Retail,15.5,22,,341.0,No
+ORD1229,2026-07-16,West,Furniture,Retail,450.0,8,15,3060.0,No
+ORD1378,2026-07-05,South,Furniture,retail,450.0,8,5,3420.0,No
+ORD1588,2026-09-11,West,Office Supplies,Corporate,15.5,40,10,558.0,No
+ORD1725,2026-07-02,South,Office Supplies,Retail,15.5,35,0,542.5,No
+ORD1065,2026-09-23,East,Electronics,Corporate,120.0,4,10,432.0,No
+ORD1799,2026-08-21,East,Electronics,Retail,120.0,3,20,288.0,N
+ORD1285,2026-08-07,West,Electronics,Retail,120.0,2,15,204.0,No
+ORD1973,29/08/2026,South,Office Supplies,Retail,15.5,7,0,108.5,No
+ORD1774,2026-07-01,North,Electronics,Retail,120.0,10,5,1140.0,Yes
+ORD1570,09/07/2026,West,Electronics,Retail,120.0,7,0,840.0,No
+ORD1395,2026-08-05,North,Electronics,Retail,120.0,3,0,360.0,No
+ORD1383,2026-09-17,East,Electronics,Retail,120.0,4,10,432.0,No
+ORD1525,2026-08-31,South,Electronics,corporate,120.0,2,10,216.0,No
+ORD1527,2026-08-28,West,Electronics,Retail,120.0,2,10,216.0,No
+ORD1902,2026-07-04,South,Furniture,Retail,450.0,8,15,3060.0,No
+ORD1325,2026-09-01,South,Office Supplies,Retail,15.5,13,10,181.35,No
+ORD1636,2026-07-15,West,Office Supplies,Corporate,15.5,21,10,292.95,No
+ORD1961,2026-09-12,North,Furniture,Corporate,450.0,4,0,1800.0,No
+ORD1944,2026-07-22,North,Office Supplies,Retail,15.5,30,0,465.0,
+ORD1564,2026-08-26,West,Office Supplies,Corporate,15.5,28,10,390.6,No
+ORD1514,2026-08-01,North,Office Supplies,Retail,15.5,11,0,170.5,No
+ORD1284,2026-07-23,West,Electronics,Corporate,120.0,8,0,960.0,No
+ORD1853,2026-09-05,South,Office Supplies,corporate,15.5,14,10,195.3,No
+ORD1595,2026-07-18,West,Electronics,Corporate,120.0,2,10,216.0,No
+ORD1032,2026-07-02,West,Office Supplies,Corporate,15.5,15,0,232.5,No
+ORD1138,2026-09-11,East,Electronics,Retail,120.0,10,15,1020.0,No
+ORD1569,2026-09-12,East,Electronics,Corporate,120.0,9,0,1080.0,No
+ORD1605,2026-09-05,South,Office Supplies,Retail,15.5,30,0,465.0,No
+ORD1259,2026-07-12,West,Furniture,Corporate,450.0,4,5,1710.0,Yes
+ORD1513,2026-07-02,West,Office Supplies,Retail,15.5,6,10,83.7,No
+ORD1261,2026-07-14,South,Office Supplies,Corporate,15.5,30,0,465.0,No
+ORD1253,2026-08-31,North,Office Supplies,Retail,,34,0,527.0,No
+ORD1561,2026-07-14,East,Office Supplies,Retail,15.5,19,10,265.05,N
+ORD1842,2026-09-17,East,Office Supplies,Corporate,15.5,11,0,170.5,No
+ORD1628,30/08/2026,West,Furniture,Retail,450.0,4,0,1800.0,No
+ORD1386,2026-08-22,West,Office Supplies,Corporate,15.5,13,10,181.35,No
+ORD1123,2026-07-02,East,Electronics,Corporate,120.0,2,5,228.0,No
+ORD1815,2026-09-02,West,Electronics,Retail,120.0,7,20,672.0,No
+ORD1027,2026-09-24,South,Furniture,Corporate,450.0,10,5,4275.0,No
+ORD1468,2026-08-03,East,Electronics,Retail,120.0,7,5,798.0,No
+ORD1955,2026-09-02,East,Electronics,Corporate,120.0,5,0,600.0,Yes
+ORD1783,31/08/2026,West,Electronics,Retail,120.0,8,10,864.0,No
+ORD1602,2026-07-27,East,Office Supplies,Retail,15.5,34,15,447.95,Yes
+ORD1212,2026-07-18,West,Electronics,Retail,120.0,6,5,684.0,No
+ORD1073,2026-08-26,North,Electronics,Retail,120.0,6,15,612.0,N
+ORD1648,2026-07-02,East,Electronics,Retail,120.0,6,5,684.0,No
+ORD1431,2026-07-10,West,Electronics,Corporate,120.0,2,0,240.0,No
+ORD1200,2026-08-19,South,Electronics,Retail,120.0,6,0,720.0,No
+ORD1521,2026-09-27,East,Electronics,Retail,,2,10,216.0,No
+ORD1030,2026-07-14,North,Electronics,Retail,120.0,7,0,840.0,No
+ORD1803,2026-09-15,West,Electronics,Retail,120.0,1,0,120.0,No
+ORD1989,2026-08-15,South,Office Supplies,Retail,15.5,25,5,368.12,Y
+ORD1926,2026-09-27,West,Furniture,Retail,450.0,9,15,3442.5,
+ORD1577,2026-07-14,North,Office Supplies,corporate,15.5,32,,471.2,No
+ORD1315,2026-08-23,East,Electronics,Retail,120.0,4,0,480.0,No
+ORD1956,2026-07-06,North,Electronics,Corporate,120.0,10,0,1200.0,No
+ORD1429,2026-09-20,West,Electronics,Retail,120.0,7,15,714.0,Yes
+ORD1624,2026-09-10,South,Electronics,Retail,120.0,5,20,480.0,No
+ORD1209,2026-07-31,West,Furniture,Corporate,450.0,8,,3600.0,No
+ORD1897,2026-07-17,West,Electronics,Corporate,120.0,4,5,456.0,No
+ORD1079,2026-07-17,West,furniture ,Corporate,450.0,10,,4275.0,Yes
+ORD1788,2026-08-05,East,Office Supplies,Corporate,15.5,22,0,341.0,No
+ORD1394,2026-08-28,North,Office Supplies,Retail,15.5,13,15,171.28,No
+ORD1574,2026-09-05,West,Electronics,Corporate,120.0,8,10,864.0,No
+ORD1094,2026-07-28,South,Electronics,Retail,120.0,10,10,1080.0,No
+ORD1074,2026-07-20,North,Office Supplies,Corporate,15.5,9,0,139.5,No
+ORD1544,2026-08-28,West,Electronics,Retail,120.0,4,10,432.0,No
+ORD1872,2026-09-17,South,Electronics,Retail,120.0,4,5,456.0,No
+ORD1844,2026-08-04,North,Electronics,Retail,120.0,1,5,114.0,No
+ORD1051,2026-07-31,West,Office Supplies,Corporate,15.5,31,0,480.5,No
+ORD1059,2026-09-07,East,Office Supplies,Corporate,15.5,17,0,263.5,No
+ORD1047,2026-08-03,North,Electronic,Corporate,450.0,9,0,4050.0,No
+ORD1132,2026-07-02,East,Furniture,Corporate,450.0,3,0,1350.0,No
+ORD1940,2026-07-06,North,Electronic,Retail,450.0,8,5,3420.0,No
+ORD1801,2026-09-27,North,Office Supplies,Retail,15.5,36,0,558.0,No
+ORD1583,2026-07-04,South,Furniture,Retail,450.0,7,10,2835.0,N
+ORD1822,2026-09-12,NORTH,Office Supplies,Corporate,15.5,6,0,93.0,No
+ORD1639,2026-08-10,South,Electronics,Retail,120.0,5,0,600.0,No
+ORD1825,2026-09-28,North,Electronics,Retail,120.0,1,0,120.0,No
+ORD1224,2026-09-23,East,Office Supplies,Corporate,15.5,26,0,403.0,No
+ORD1175,2026-07-14,South,Furniture,Retail,450.0,5,5,2137.5,No
+ORD1012,2026-09-11,West,Electronics,Corporate,120.0,7,20,672.0,No
+ORD1442,2026-08-31,North,Electronics,Retail,120.0,4,5,456.0,No
+ORD1754,2026-08-27,NORTH,Furniture,Corporate,450.0,4,15,1530.0,
+ORD1906,2026-07-29,South,Electronics,Retail,120.0,4,5,456.0,No
+ORD1620,2026-08-31,West,Office Supplies,Retail,15.5,39,0,604.5,No
+ORD1206,2026-07-10,South,Office Supplies,Retail,15.5,39,10,544.05,No
+ORD1165,2026-09-17,North,Office Supplies,Corporate,15.5,38,0,589.0,No
+ORD1994,2026-07-24,South,Electronics,Corporate,120.0,10,0,,No
+ORD1782,2026-07-15,South,Electronics,Retail,120.0,2,0,240.0,Yes
+ORD1678,2026-07-20,North,Electronics,Retail,120.0,8,20,768.0,No
+ORD1923,2026-09-26,West,Electronics,Corporate,120.0,6,0,720.0,No
+ORD1228,2026-08-02,North,Furniture,Retail,450.0,1,15,382.5,No
+ORD1556,2026-09-26,South,Office Supplies,Corporate,15.5,16,5,235.6,No
+ORD1455,2026-08-25,West,Office Supplies,Corporate,15.5,16,10,223.2,No
+ORD1689,2026-08-26,East,Electronics,Retail,120.0,3,0,360.0,Yes
+ORD1362,2026-07-29,East,Furniture,Retail,450.0,10,0,4500.0,No
+ORD1730,2026-09-22,South,Office Supplies,Retail,15.5,11,15,144.92,No
+ORD1650,2026-07-27,South,Office Supplies,Retail,15.5,30,0,465.0,No
+ORD1908,2026-09-01,South,Furniture,Corporate,450.0,6,0,2700.0,No
+ORD1700,2026-07-08,West,Electronics,Retail,120.0,2,10,216.0,No
+ORD1141,2026-08-08,East,Furniture,Retail,450.0,5,0,2250.0,No
+ORD1572,2026-09-22,North,Office Supplies,Retail,15.5,20,20,248.0,No
+ORD1093,2026-08-29,East,Office Supplies,retail,15.5,36,15,474.3,No
+ORD1882,2026-07-04,West,Furniture,Retail,450.0,7,0,3150.0,No
+ORD1338,2026-07-19,West,Office Supplies,Retail,15.5,9,0,,No
+ORD1829,2026-09-07,North,Office Supplies,Retail,15.5,21,0,325.5,No
+ORD1010,2026-08-29,South,Office Supplies,Corporate,15.5,40,0,620.0,No
+ORD1575,22/09/2026,North,Furniture,Corporate,450.0,3,20,1080.0,No
+ORD1258,2026-07-25,West,Furniture,Retail,450.0,8,15,3060.0,No
+ORD1244,2026-09-09,North,Office Supplies,Retail,15.5,30,20,372.0,No
+ORD1385,2026-09-12,South,Office Supplies,Corporate,15.5,11,0,170.5,No
+ORD1097,2026-09-27,North,Electronic,Retail,15.5,40,5,589.0,No
+ORD1804,2026-09-13,West,Furniture,Retail,450.0,3,15,1147.5,No
+ORD1615,2026-07-17,North,Electronics,corporate,120.0,9,10,972.0,No
+ORD1953,2026-08-25,North,Office Supplies,Retail,15.5,12,5,176.7,No
+ORD1388,2026-08-04,East,Electronics,Retail,120.0,2,0,240.0,No
+ORD1296,2026-07-10,West,Electronics,Corporate,120.0,9,0,1080.0,No
+ORD1278,2026-09-30,North,Office Supplies,Corporate,15.5,35,0,542.5,No
+ORD1317,2026-09-16,East,Office Supplies,Retail,15.5,40,0,620.0,No
+ORD1099,2026-08-10,North,Furniture,corporate,450.0,3,0,1350.0,No
+ORD1044,2026-07-15,West,Office Supplies,Retail,15.5,23,5,338.68,No
+ORD1682,2026-07-13,East,Office Supplies,retail,15.5,24,15,316.2,No
+ORD1330,2026-09-03,West,Office Supplies,Corporate,15.5,16,0,248.0,No
+ORD1622,2026-09-27,West,Furniture,Retail,450.0,7,15,2677.5,No
+ORD1884,2026-09-06,North,Furniture,Retail,450.0,10,5,4275.0,N
+ORD1288,2026-08-13,West,Furniture,Corporate,450.0,3,5,1282.5,No
+ORD1159,2026-08-28,North,Electronics,Corporate,120.0,1,0,108.0,No
+ORD1496,2026-08-05,South,Electronics,Retail,120.0,5,0,600.0,No
+ORD1396,2026-09-28,West,Furniture,Retail,450.0,2,0,900.0,No
+ORD1408,2026-07-10, North ,Electronics,Retail,120.0,1,15,102.0,No
+ORD1705,2026-08-15,West,Furniture,Corporate,450.0,6,0,2700.0,No
+ORD1293,2026-08-07,South,Electronics,Corporate,120.0,8,0,960.0,No
+ORD1013,2026-07-19,South,Electronics,Retail,120.0,5,10,540.0,No
+ORD1793,2026-07-26,East,Office Supplies,Retail,15.5,34,5,500.65,No
+ORD1085,2026-09-16,West,Office Supplies,Corporate,15.5,15,20,186.0,No
+ORD1444,2026-09-08,West,Electronics,Retail,120.0,6,10,648.0,Yes
+ORD1531,2026-08-28,South,Electronics,Corporate,120.0,7,5,798.0,No
+ORD1331,2026-07-20,North,Furniture,Retail,450.0,6,0,2700.0,N
+ORD1143,2026-09-23,South,Electronics,Corporate,120.0,1,15,102.0,No
+ORD1377,2026-09-29,West,Furniture,retail,450.0,1,20,360.0,Yes
+ORD1227,2026-07-26,West,Electronics,Retail,120.0,7,20,672.0,No
+ORD1929,2026-09-29,South,Office Supplies,Retail,15.5,13,15,171.28,N
+ORD1344,2026-07-11,South,Electronics,Corporate,120.0,3,10,324.0,No
+ORD1491,2026-09-20,West,Office Supplies,Retail,15.5,36,15,474.3,No
+ORD1693,2026-07-24,West,Furniture,Retail,450.0,10,0,4950.0,No
+ORD1277,2026-09-08,South,Office Supplies,Corporate,15.5,14,0,217.0,No
+ORD1174,2026-08-06,East,Electronics,Retail,120.0,4,0,480.0,No
+ORD1948,2026-07-09,South,Electronics,Retail,120.0,10,10,1080.0,No
+ORD1752,2026-09-17,West,Office Supplies,Corporate,15.5,34,20,421.6,N
+ORD1239,2026-07-28,West,Electronics,Corporate,120.0,8,0,960.0,No
+ORD1397,2026-07-17,East,Furniture,Retail,450.0,1,10,405.0,No
+ORD1718,2026-08-30,East,Electronics,Retail,120.0,2,0,240.0,No
+ORD1092,2026-08-04,South,Electronics,Corporate,120.0,5,15,510.0,N
+ORD1334,2026-08-30,North,Electronics,Retail,120.0,8,10,864.0,No
+ORD1153,21/09/2026,North,Office Supplies,Corporate,15.5,24,5,353.4,No
+ORD1629,2026-08-19,West,Furniture,corporate,450.0,5,10,2025.0,No
+ORD1920,2026-08-29,West,Electronics,Retail,120.0,5,0,600.0,No
+ORD1985,2026-08-26,South,Office Supplies,Retail,15.5,21,0,325.5,No
+ORD1517,2026-08-21,North,Electronics,Corporate,120.0,4,10,432.0,No
+ORD1721,2026-09-26,West,Electronics,Corporate,120.0,7,10,756.0,Yes
+ORD1136,2026-07-13,West,Office Supplies,Retail,15.5,15,10,209.25,No
+ORD1487,2026-08-23,East,Electronics,Retail,120.0,7,10,756.0,No
+ORD1612,2026-08-06,WEST,Electronics,Corporate,120.0,8,15,816.0,No
+ORD1796,2026-08-12,West,Office Supplies,Retail,15.5,6,0,93.0,No
+ORD1464,2026-07-05,South,Electronics,Corporate,120.0,2,0,240.0,N
+ORD1318,2026-08-12,South,Office Supplies,Retail,15.5,17,20,210.8,
+ORD1951,2026-09-08,North,Office Supplies,Corporate,15.5,12,0,186.0,No
+ORD1871,2026-08-18,West,Electronics,Retail,120.0,1,15,102.0,No
+ORD1046,2026-07-12,East,Office Supplies,Retail,15.5,26,10,362.7,No
+ORD1070,2026-09-24,East,Furniture,Retail,450.0,8,5,3420.0,No
+ORD1358,18/08/2026,North,Office Supplies,Retail,15.5,30,5,441.75,No
+ORD1858,2026-09-12,East,Electronics,Corporate,120.0,4,10,432.0,No
+ORD1003,2026-09-10,North,Furniture,Retail,450.0,4,0,1800.0,No
+ORD1501,2026-07-04,East,Office Supplies,Retail,15.5,31,0,480.5,No
+ORD1188,11/08/2026,North,Office Supplies,Retail,15.5,28,0,434.0,No
+ORD1221,2026-07-01,East,Electronics,Retail,120.0,2,5,228.0,No
+ORD1656,2026-09-10,West,Electronics,Retail,120.0,2,10,216.0,No
+ORD1550,2026-09-23,East,Furniture,Corporate,450.0,1,5,427.5,Yes
+ORD1050,2026-08-01,East,Electronics,Retail,120.0,7,20,672.0,N
+ORD1723,26/08/2026,East,Furniture,Corporate,450.0,4,0,1800.0,No
+ORD1146,2026-09-21,North,Office Supplies,Retail,15.5,28,10,390.6,No
+ORD1147,2026-08-07,South,Furniture,Retail,450.0,9,15,3442.5,No
+ORD1761,2026-08-22,South,Furniture,Retail,450.0,9,0,4050.0,No
+ORD1891,2026-09-07,West,Furniture,Retail,450.0,2,5,855.0,No
+ORD1916,2026-08-08,West,Office Supplies,Retail,15.5,23,0,356.5,No
+ORD1811,2026-08-23,North,Office Supplies,Corporate,15.5,13,0,201.5,No
+ORD1384,2026-09-11,South,Electronics,Retail,120.0,6,20,576.0,No
+ORD1313,2026-09-06,South,Furniture,Retail,450.0,7,0,3150.0,No
+ORD1381,2026-08-01,South,Office Supplies,Retail,15.5,27,15,355.72,No
+ORD1896,2026-08-11,South,Office Supplies,Retail,15.5,40,0,620.0,No
+ORD1928,2026-08-16,North,Furniture,Corporate,450.0,9,10,3645.0,No
+ORD1536,2026-09-12,East,Electronics,Corporate,120.0,6,5,684.0,No
+ORD1042,17/08/2026,South,Furniture,retail,450.0,5,5,2137.5,No
+ORD1297,2026-07-22,South,Furniture,Retail,450.0,4,10,1620.0,No
+ORD1562,2026-07-31,East,Office Supplies,Corporate,15.5,8,15,105.4,No
+ORD1791,2026-08-13,East,Electronics,Retail,120.0,1,0,120.0,No
+ORD1113,2026-08-08,East,Office Supplies,Retail,15.5,36,0,558.0,No
+ORD1419,2026-08-19,West,Electronics,Corporate,120.0,1,5,114.0,No
+ORD1122,2026-09-28,South,Electronics,Corporate,120.0,4,10,432.0,No
+ORD1886,2026-08-16,West,Electronics,Retail,120.0,10,0,1200.0,No
+ORD1927,2026-08-23,South,Electronics,Corporate,120.0,1,5,114.0,No
+ORD1034,2026-08-28,South,Office Supplies,Corporate,15.5,40,10,558.0,No
+ORD1870,2026-08-11,North,Electronics,Retail,120.0,4,10,432.0,No
+ORD1467,2026-07-13,South,Office Supplies,Retail,15.5,40,10,558.0,No
+ORD1218,2026-07-03, South ,Office Supplies,,15.5,38,0,589.0,No
+ORD1760,2026-09-08,West,Furniture,Retail,450.0,4,15,1530.0,No
+ORD1542,2026-09-02,East,Electronics,Retail,120.0,1,5,114.0,Yes
+ORD1982,2026-07-19,South,Office Supplies,Corporate,15.5,6,5,88.35,No
+ORD1821,2026-09-15,East,Office Supplies,Retail,15.5,8,5,117.8,
+ORD1772,2026-09-17,West,Furniture,Retail,450.0,9,20,3240.0,Yes
+ORD1924,2026-07-19,North,Furniture,Retail,450.0,8,0,3600.0,No
+ORD1131,2026-09-03,West,Electronics,Retail,120.0,8,0,960.0,No
+ORD1639,2026-08-10,South,Electronics,Retail,120.0,5,0,600.0,No
+ORD1148,2026-09-03,West,Office Supplies,Retail,15.5,35,20,434.0,No
+ORD1167,2026-07-10,West,Electronics,Retail,120.0,3,0,360.0,N
+ORD1838,2026-08-02,South,Office Supplies,Retail,15.5,34,15,447.95,No
+ORD1502,2026-09-13,East,Furniture,retail,450.0,4,10,1620.0,No
+ORD1451,05/07/2026,North,Electronics,Retail,120.0,9,5,1026.0,No
+ORD1434,2026-07-19, North ,Electronics,retail,120.0,9,0,1080.0,No
+ORD1751,2026-07-25,South,Electronics,Retail,120.0,5,5,570.0,No
+ORD1271,05/07/2026,East,Office Supplies,Retail,15.5,33,0,511.5,No
+ORD1967,2026-09-24,West,Electronics,Retail,120.0,9,20,864.0,No
+ORD1532,2026-07-15,North,Office Supplies,Corporate,15.5,15,0,232.5,No
+ORD1573,2026-08-11,South,Office Supplies,Retail,15.5,21,5,309.22,No
+ORD1413,2026-09-24,East,Office Supplies,Retail,15.5,13,10,181.35,N
+ORD1539,2026-09-03,West,Office Supplies,Corporate,,9,20,111.6,No
+ORD1379,2026-09-02, East ,Electronics,Retail,120.0,9,10,972.0,No
+ORD1080,2026-09-21,South,Office Supplies,Retail,15.5,21,0,325.5,No
+ORD1968,2026-07-28,East,Office Supplies,Corporate,15.5,22,15,289.85,No
+ORD1220,2026-09-02,East,Electronics,Retail,120.0,4,10,432.0,No
+ORD1488,2026-08-17,West,Furniture,retail,450.0,5,10,2025.0,No
+ORD1134,2026-08-18,West,Furniture,Corporate,450.0,8,15,3060.0,Yes
+ORD1919,2026-08-17,East,Furniture,Corporate,450.0,3,5,1282.5,No
+ORD1064,2026-07-28,East,Office Supplies,Corporate,15.5,15,10,209.25,No
+ORD1095,2026-07-02,East,Electronics,Retail,120.0,7,5,798.0,N
+ORD1084,2026-08-30,East,Furniture,Retail,450.0,5,10,2025.0,No
+ORD1422,2026-08-21,North,Furniture,Retail,450.0,5,0,2250.0,No
+ORD1436,2026-07-18,North,Office supplies,Corporate,120.0,4,0,480.0,No
+ORD1679,2026-07-05,South,Office Supplies,Corporate,15.5,8,0,124.0,No
+ORD1101,2026-08-07,North,Electronics,Retail,120.0,9,0,1080.0,Yes
+ORD1466,2026-08-31,East,Furniture,Corporate,450.0,10,15,3825.0,No
+ORD1840,2026-07-08,South,Electronics,Retail,120.0,5,0,600.0,No
+ORD1198,2026-07-08,South,Office Supplies,Corporate,15.5,10,5,147.25,No
+ORD1597,2026-09-08, West ,Furniture,Corporate,450.0,3,10,1215.0,Yes
+ORD1716,2026-09-28,North,Electronics,Corporate,120.0,7,20,672.0,No
+ORD1336,2026-09-27,West,Furniture,Retail,450.0,2,15,765.0,No
+ORD1980,2026-07-28,West,Furniture,Retail,450.0,10,0,4500.0,No
+ORD1254,2026-08-26,South,Furniture,Retail,450.0,3,0,1350.0,No
+ORD1658,2026-08-11,East,Furniture,Corporate,450.0,2,0,900.0,No
+ORD1387,2026-07-19,East,Office Supplies,Corporate,15.5,30,5,441.75,No
+ORD1144,2026-08-06,West,Electronics,Corporate,120.0,4,5,456.0,No
+ORD1887,2026-09-21,East,Electronics,Corporate,120.0,4,0,480.0,N
+ORD1292,2026-07-16,South,Electronics,Corporate,120.0,5,10,540.0,N
+ORD1307,2026-09-17,West,Office Supplies,Retail,15.5,18,0,279.0,No
+ORD1359,2026-09-27,South,Electronics,Corporate,120.0,9,5,1026.0,No
+ORD1240,2026-07-10,South,Office Supplies,Retail,15.5,10,10,139.5,No
+ORD1610,2026-07-18,East,Electronics,Retail,120.0,1,0,120.0,No
+ORD1547,2026-07-14,North,Electronics,Retail,120.0,7,0,840.0,No
+ORD1580,2026-08-21,South,Electronics,Corporate,120.0,9,0,1080.0,No
+ORD1596,2026-09-03,East,Office Supplies,Retail,15.5,18,15,237.15,No
+ORD1242,2026-09-30,East,Office Supplies,Retail,15.5,28,5,412.3,No
+ORD1848,2026-08-28,West,Electronics,Retail,120.0,9,0,1080.0,No
+ORD1465,2026-07-21,East,Furniture,Corporate,450.0,2,0,900.0,No
+ORD1992,2026-09-22,West,Office Supplies,Corporate,15.5,25,10,348.75,No
+ORD1587,2026-09-04,North,Electronics,Corporate,120.0,5,0,600.0,No
+ORD1306,2026-08-14,North,Electronics,Corporate,120.0,2,0,240.0,N
+ORD1864,2026-08-08,South,Electronics,Retail,120.0,2,20,192.0,No
+ORD1128,2026-08-12,East,Furniture,Retail,450.0,6,15,2295.0,No
+ORD1807,2026-09-17,West,Furniture,Retail,450.0,5,0,2250.0,No
+ORD1127,08/08/2026,West,Furniture,Corporate,450.0,3,0,1350.0,No
+ORD1363,2026-08-29,west,Furniture,Retail,450.0,6,20,2160.0,No
+ORD1764,2026-07-21,East,Furniture,Corporate,450.0,10,5,4275.0,No
+ORD1999,2026-07-17,South,Electronics,Retail,120.0,5,10,540.0,No
+ORD1905,2026-08-31,West,Electronics,Retail,120.0,5,0,600.0,No
+ORD1062,2026-08-18,East,Office Supplies,Corporate,15.5,24,0,372.0,No
+ORD1771,2026-08-07,West,Electronics,Retail,120.0,2,10,216.0,N
+ORD1735,2026-07-29,North,Office Supplies,Corporate,15.5,10,10,139.5,No
+ORD1878,2026-07-01,South,Electronics,Corporate,120.0,9,0,1080.0,No
+ORD1777,2026-08-22,West,Electronics,Retail,120.0,10,10,1080.0,No
+ORD1947,2026-08-28,North,Electronics,Retail,120.0,3,0,360.0,No
+ORD1787,2026-08-09,North,Office Supplies,Corporate,15.5,18,0,279.0,No
+ORD1607,2026-09-04,East,Electronics,Retail,120.0,6,5,684.0,No
+ORD1553,2026-09-16,West,Office Supplies,Retail,15.5,26,20,322.4,No
+ORD1029,2026-07-07,East,Office Supplies,Retail,15.5,30,10,418.5,No
+ORD1024,2026-09-30,South,Office Supplies,Corporate,15.5,33,15,434.77,No
+ORD1164,2026-07-09,South,Office Supplies,Retail,15.5,11,5,161.97,No
+ORD1786,2026-09-15,West,Electronics,Corporate,,2,10,216.0,No
+ORD1534,2026-09-26,West,Office Supplies,Corporate,15.5,35,20,434.0,No
+ORD1320,2026-08-06,South,Furniture,Retail,450.0,5,0,2250.0,No
+ORD1566,2026-07-24,West,Office Supplies,Retail,15.5,7,0,108.5,No
+ORD1524,2026-08-15,East,Electronics,Retail,120.0,8,15,816.0,No
+ORD1096,27/09/2026,South,Office Supplies,retail,15.5,6,0,93.0,No
+ORD1219,2026-07-31,South,Electronics,Retail,120.0,10,5,1140.0,No
+ORD1291,2026-08-08,East,Furniture,,450.0,6,10,2430.0,No
+ORD1554,2026-07-18,North,Furniture,Corporate,450.0,9,0,4050.0,No
+ORD1691,2026-08-11,East,Electronics,Corporate,120.0,9,0,1080.0,No
+ORD1130,2026-08-18,South,Office Supplies,Corporate,15.5,14,5,206.15,Yes
+ORD1839,2026-08-24,East,Office Supplies,Corporate,15.5,21,0,325.5,No
+ORD1756,2026-09-20,South,Furniture,Retail,450.0,9,5,3847.5,No
+ORD1551,2026-08-25,West,Furniture,Retail,450.0,3,10,1215.0,No
+ORD1945,2026-09-02,South,Office Supplies,Retail,15.5,22,10,306.9,No
+ORD1780,15/09/2026,North,Office Supplies,Retail,15.5,25,10,348.75,No
+ORD1938,2026-07-24,West,Office Supplies,Retail,15.5,37,0,573.5,No
+ORD1203,2026-07-11,South,Electronics,Corporate,120.0,3,10,324.0,No
+ORD1983,2026-07-05,West,Office Supplies,Corporate,15.5,20,0,310.0,No
+ORD1950,26/07/2026,South,Furniture,Retail,450.0,9,0,4050.0,No
+ORD1354,2026-09-01,West,Office Supplies,Retail,15.5,22,20,272.8,No
+ORD1835,2026-09-26,South,Electronics,Retail,120.0,4,0,480.0,No
+ORD1668,2026-09-28,East,Furniture,Retail,450.0,10,0,4500.0,No
+ORD1975,2026-09-01,West,Electronics,Corporate,120.0,6,15,612.0,N
+ORD1640,2026-09-25,East,Electronics,Retail,120.0,3,5,342.0,No
+ORD1558,2026-09-07,South,Office Supplies,Corporate,15.5,38,0,589.0,No
+ORD1759,2026-07-17,West,Electronics,Corporate,120.0,1,5,114.0,No
+ORD1660,2026-08-21,West,Electronics,Retail,120.0,4,0,480.0,N
+ORD1457,2026-08-07,North,Office Supplies,corporate,15.5,30,15,395.25,No
+ORD1414,2026-08-14,East,Office Supplies,Corporate,15.5,15,0,232.5,No
+ORD1151,2026-08-28,South,Office Supplies,Retail,15.5,29,10,404.55,No
+ORD1769,2026-08-06,South,Office Supplies,Retail,15.5,27,15,355.72,No
+ORD1954,2026-09-09,east,Furniture,Retail,450.0,3,5,641.25,No
+ORD1287,2026-07-25,West,Electronics,Corporate,120.0,5,10,540.0,Yes
+ORD1909,2026-08-24,South,Electronics,Retail,120.0,6,0,720.0,No
+ORD1855,2026-08-01,East,Electronics,,120.0,1,15,102.0,No
+ORD1322,2026-08-22,North,Office Supplies,Corporate,15.5,6,0,93.0,No
+ORD1312,2026-07-23,East,Furniture,Retail,450.0,6,15,2295.0,No
+ORD1875,2026-09-20,West,Office Supplies,Retail,15.5,40,20,496.0,No
+ORD1704,2026-07-24,east,Furniture,Corporate,450.0,9,20,3240.0,No
+ORD1430,2026-08-07,South,Electronics,Corporate,120.0,6,0,720.0,No
+ORD1303,2026-08-18,North,Office Supplies,Corporate,15.5,13,10,181.35,No
+ORD1533,2026-08-31,West,Office Supplies,Retail,15.5,29,10,404.55,No
+ORD1698,2026-09-30,North,Office Supplies,Retail,15.5,36,15,474.3,No
+ORD1647,2026-09-26,West,Furniture,Retail,450.0,9,10,3645.0,No
+ORD1060,2026-09-24,West,Furniture,Corporate,450.0,2,15,765.0,No
+ORD1589,2026-08-07,East,Electronics,Retail,120.0,10,5,1140.0,No
+ORD1781,2026-07-12,South,Electronics,Retail,120.0,5,0,600.0,No
+ORD1657,2026-09-16,North,Furniture,Corporate,450.0,3,20,1080.0,No
+ORD1677,2026-07-03,North,Electronics,Retail,120.0,8,10,864.0,No
+ORD1894,2026-09-08,West,Furniture,Retail,450.0,1,5,427.5,Yes
+ORD1403,2026-09-21,North,Furniture,Corporate,450.0,10,0,4500.0,No
+ORD1921,2026-08-15,North,Electronics,Corporate,120.0,2,5,228.0,No
+ORD1995,2026-09-10,East,Furniture,,450.0,8,0,3600.0,No
+ORD1169,13/07/2026,West,Electronics,Corporate,120.0,9,10,972.0,No
+ORD1412,2026-07-31,North,Electronics,Retail,120.0,8,5,912.0,No
+ORD1323,2026-09-13,East,Electronics,Retail,120.0,4,0,480.0,No
+ORD1347,2026-09-15,East,Electronics,Retail,120.0,5,0,600.0,No
+ORD1087,2026-07-10,East,Office Supplies,Retail,15.5,24,15,316.2,No
+ORD1072,2026-08-03,West,Office Supplies,Retail,15.5,38,5,559.55,No
+ORD1530,18/09/2026,South,Office Supplies,Retail,15.5,26,0,403.0,No
+ORD1011,2026-07-08, North ,Electronics,Retail,120.0,5,0,600.0,No
+ORD1150,2026-08-20,West,Office Supplies,Retail,15.5,30,0,465.0,No
+ORD1454,2026-09-23,South,Electronics,Retail,120.0,3,20,288.0,No
+ORD1031,2026-07-10,South,Office Supplies,Retail,15.5,8,10,111.6,No
+ORD1758,2026-09-30,North,Electronics,Corporate,120.0,8,0,960.0,No
+ORD1699,2026-08-29,West,Electronics,Retail,120.0,7,10,756.0,No
+ORD1529,2026-07-06,North,Electronics,Corporate,120.0,6,0,720.0,No
+ORD1470,2026-07-27,NORTH,Electronics,Retail,120.0,2,0,240.0,No
+ORD1420,2026-09-22,South,Electronics,Retail,120.0,6,0,720.0,No
+ORD1424,2026-09-02,West,Office Supplies,Corporate,15.5,39,20,483.6,No
+ORD1440,2026-07-04,South,Furniture,Retail,450.0,3,0,1350.0,No
+ORD1745,2026-07-29,North,Office Supplies,Retail,15.5,22,20,272.8,No
+ORD1234,2026-07-08,North,Furniture,Retail,450.0,3,20,1080.0,No
+ORD1432,2026-08-29,South,Electronics,Retail,120.0,4,5,456.0,No
+ORD1543,2026-07-12,West,Office Supplies,Corporate,15.5,37,5,544.82,No
+ORD1156,2026-07-20,West,Office Supplies,Corporate,15.5,31,15,408.43,No
+ORD1739,2026-07-19,East,Furniture,Retail,450.0,2,5,855.0,No
+ORD1681,2026-09-30,North,Office Supplies,Retail,15.5,7,0,108.5,No
+ORD1645,2026-09-12,West,Furniture,Corporate,450.0,9,5,1923.75,Yes
+ORD1972,2026-09-15,North,Electronics,Retail,120.0,1,0,120.0,No
+ORD1425,2026-07-01,West,Electronics,Retail,120.0,1,20,96.0,Yes
+ORD1382,2026-07-16,West,Electronics,Corporate,120.0,10,10,1080.0,No
+ORD1273,2026-07-08,East,Furniture,Retail,450.0,8,5,3420.0,No
+ORD1088,2026-07-16, West ,Furniture,Retail,450.0,9,0,4050.0,No
+ORD1988,2026-08-12,East,Office Supplies,Corporate,15.5,15,10,209.25,No
+ORD1518,2026-07-22,North,Office Supplies,Corporate,15.5,29,15,382.07,No
+ORD1294,2026-09-16,South,Office Supplies,Corporate,15.5,39,10,544.05,No
+ORD1687,2026-08-13,WEST,Office Supplies,Corporate,15.5,8,0,124.0,No
+ORD1934,2026-07-12,North,Office Supplies,Retail,15.5,27,0,418.5,No
+ORD1252,2026-08-23,East,Electronics,Corporate,120.0,9,0,1080.0,No
+ORD1007,2026-08-16,East,Office Supplies,Retail,15.5,19,10,265.05,No
+ORD1814,2026-08-24,East,Furniture,Retail,450.0,3,0,1350.0,Yes
+ORD1450,2026-09-11,West,Office Supplies,Corporate,15.5,36,10,502.2,No
+ORD1917,27/09/2026,East,Electronics,Corporate,120.0,8,20,768.0,No
+ORD1126,2026-07-09,South,Office Supplies,Retail,15.5,37,0,573.5,Yes
+ORD1142,2026-08-31,North,Electronics,Retail,120.0,5,20,480.0,No
+ORD1343,2026-07-24,East,Office Supplies,Retail,15.5,23,10,320.85,No
+ORD1373,2026-07-31,South,Electronics,Corporate,120.0,9,0,1080.0,No
+ORD1663,2026-08-02,west,Office Supplies,Retail,15.5,15,0,255.75,N
+ORD1158,2026-09-08,West,Furniture,Retail,450.0,5,5,2137.5,Y
+ORD1102,2026-07-07,East,Office Supplies,Retail,15.5,36,0,558.0,Yes
+ORD1511,2026-07-22,East,Electronics,Corporate,120.0,2,0,240.0,No
+ORD1519,2026-09-07,East,Furniture,Retail,450.0,2,10,810.0,Yes
+ORD1453,29/09/2026,West,Office Supplies,Corporate,15.5,28,20,347.2,No
+ORD1726,2026-09-07,north,Furniture,Corporate,450.0,9,5,3847.5,No
+ORD1300,2026-09-13,North,Furniture,Corporate,450.0,9,20,3240.0,No
+ORD1746,2026-09-24,West,Office Supplies,Retail,15.5,33,20,409.2,No
+ORD1818,17/09/2026,North,Furniture,Corporate,450.0,2,10,810.0,N
+ORD1371,2026-09-20,South,Electronics,Retail,120.0,2,0,240.0,No
+ORD1211,2026-08-06,West,Furniture,Retail,450.0,3,10,1215.0,No
+ORD1121,2026-09-02,East,Office Supplies,Retail,15.5,40,0,620.0,No
+ORD1907,2026-08-05,North,Electronics,corporate,120.0,2,20,192.0,No
+ORD1172,2026-07-12,South,Office Supplies,Retail,15.5,13,5,191.42,No
+ORD1108,2026-07-28,South,Electronics,Retail,120.0,9,0,1080.0,Yes
+ORD1852,2026-08-13,North,Office Supplies,Retail,15.5,12,0,186.0,No
+ORD1043,2026-09-22,East,Office Supplies,Retail,15.5,11,15,144.92,No
+ORD1790,2026-07-19,West,Office Supplies,Retail,15.5,15,0,232.5,N
+ORD1105,2026-08-08,North,Electronics,Retail,120.0,7,5,798.0,No
+ORD1625,2026-09-29,South,Electronics,Corporate,120.0,2,10,216.0,No
+ORD1626,2026-09-28,West,Electronics,Retail,120.0,6,20,576.0,No
+ORD1996,2026-07-22,North,Furniture,Corporate,450.0,3,0,1350.0,No
+ORD1114,2026-08-25,East,Furniture,Retail,450.0,4,20,1440.0,No
+ORD1469,20/07/2026,North,Electronics,Retail,120.0,10,5,1140.0,No
+ORD1913,2026-08-22,East,Electronics,Retail,,8,10,864.0,No
+ORD1052,2026-08-12,West,Furniture,Corporate,450.0,4,0,1800.0,No
+ORD1724,2026-07-11,North,Electronics,Corporate,120.0,3,15,306.0,No
+ORD1107,2026-08-09,East,Electronics,Corporate,120.0,2,15,204.0,No
+ORD1686,2026-09-27,East,Electronics,Retail,120.0,3,5,342.0,No
+ORD2000,2026-07-24,South,Electronics,Retail,120.0,5,0,600.0,No
+ORD1528,2026-08-07,South,Office Supplies,Retail,15.5,12,0,186.0,No
+ORD1969,2026-09-17,West,Office Supplies,Corporate,15.5,8,10,111.6,No
+ORD1155,19/08/2026,South,Office Supplies,Corporate,15.5,39,0,604.5,No
+ORD1274,2026-07-23,South,Furniture,Retail,450.0,5,5,2137.5,No
+ORD1808,2026-07-07,North,Furniture,Corporate,450.0,2,15,765.0,No
+ORD1048,2026-09-27,West,Furniture,Corporate,450.0,10,15,3825.0,No
+ORD1364,2026-08-07,South,Office Supplies,Retail,15.5,14,0,217.0,No
+ORD1349,2026-08-04,South,Furniture,Retail,450.0,7,0,3150.0,No
+ORD1265,2026-07-06,North,Office Supplies,Corporate,15.5,38,5,559.55,No
+ORD1977,2026-07-18,North,Furniture,Retail,450.0,2,5,855.0,No
+ORD1230,2026-07-24,South,Furniture,Corporate,450.0,9,0,3645.0,No
+ORD1576,2026-09-07,North,Electronics,Corporate,120.0,4,15,408.0,No
+ORD1124,2026-07-20,South,Office Supplies,Retail,15.5,22,0,341.0,N
+ORD1233,2026-08-27,North,Office Supplies,Retail,15.5,32,0,496.0,No
+ORD1633,2026-07-02,East,Electronics,Retail,120.0,5,10,540.0,No
+ORD1117,2026-09-01,West,Furniture,Retail,450.0,6,15,2295.0,No
+ORD1441,20/07/2026,North,Furniture,Retail,450.0,5,5,2137.5,No
+ORD1346,2026-08-25,South,Furniture,Retail,450.0,1,0,450.0,No
+ORD1874,28/08/2026,South,Office Supplies,Retail,15.5,23,5,338.68,No
+ORD1033,2026-08-21,West,Electronics,Retail,120.0,7,0,840.0,No
+ORD1516,2026-08-13,South,Office Supplies,Retail,15.5,36,0,558.0,No
+ORD1179,2026-07-12,East,Electronics,Retail,120.0,6,0,720.0,No
+ORD1163,2026-07-31,East,Electronics,Retail,120.0,3,10,324.0,No
+ORD1694,2026-09-23,West,Office Supplies,Retail,15.5,36,20,446.4,No
+ORD1366,29/09/2026,North,Office Supplies,Corporate,15.5,15,15,197.62,No
+ORD1268,2026-07-03,South,Office Supplies,Corporate,15.5,24,10,334.8,No
+ORD1368,2026-07-24,North,Office Supplies,retail,15.5,17,0,263.5,No
+ORD1993,2026-07-18,South,Office Supplies,Corporate,15.5,23,0,356.5,No
+ORD1049,2026-07-06,South,furniture ,Corporate,15.5,7,15,92.22,No
+ORD1571,2026-07-28,EAST,Electronics,Retail,120.0,10,5,1140.0,No
+ORD1952,2026-08-18,South,Electronics,Retail,120.0,5,15,510.0,No
+ORD1241,2026-08-10,EAST,Office Supplies,Retail,15.5,23,15,303.02,No
+ORD1976,2026-08-22,West,Office Supplies,Corporate,15.5,30,15,395.25,No
+ORD1506,2026-08-12,South,Furniture,Retail,450.0,2,5,855.0,No
+ORD1903,2026-09-08,West,Electronics,Corporate,120.0,8,20,768.0,No
+ORD1813,2026-08-23,West,Office Supplies,Corporate,15.5,32,5,471.2,No
+ORD1104,2026-07-15,West,Furniture,Retail,450.0,1,0,450.0,No
+ORD1504,24/07/2026,South,Furniture,Corporate,450.0,9,10,3645.0,No
+ORD1621,2026-09-29,east,Electronics,Retail,120.0,9,0,1080.0,No
+ORD1161,2026-07-30,South,Electronics,Corporate,120.0,1,0,120.0,No
+ORD1205,2026-07-24,West,Electronics,corporate,120.0,4,0,480.0,No
+ORD1178,2026-07-24,West,Furniture,Retail,450.0,3,10,1215.0,No
+ORD1133,2026-08-03,South,Office Supplies,Corporate,15.5,26,15,342.55,N
+ORD1495,2026-07-23,East,Electronics,Retail,120.0,5,10,540.0,No
+ORD1684,2026-07-07,West,Electronics,Retail,120.0,7,0,840.0,No
+ORD1939,2026-08-10,North,Electronics,Retail,120.0,6,10,648.0,No
+ORD1768,2026-09-19,East,Electronics,Corporate,,10,15,1020.0,No
+ORD1971,2026-07-09,East,Office Supplies,Retail,15.5,23,5,338.68,N
+ORD1290,11/08/2026,West,Electronics,Retail,120.0,8,10,864.0,N
+ORD1213,2026-09-05,West,Electronics,Corporate,120.0,5,10,540.0,No
+ORD1637,2026-09-11,South,Electronics,Retail,120.0,8,10,864.0,No
+ORD1860,2026-08-26,North,Furniture,Retail,450.0,10,0,4500.0,No
+ORD1819,2026-09-13,South,Electronics,Retail,120.0,1,5,114.0,No
+ORD1484,2026-07-05,South,Office Supplies,Corporate,15.5,8,10,111.6,No
+ORD1816,2026-07-05,West,Furniture,Corporate,450.0,2,5,855.0,No
+ORD1369,2026-07-01,East,Electronics,Corporate,120.0,2,5,228.0,No
+ORD1753,2026-09-03,North,Office Supplies,Corporate,15.5,39,0,604.5,No
+ORD1669,2026-09-07,South,Electronics,Retail,120.0,2,0,240.0,No
+ORD1970,2026-07-19,North,Office Supplies,Corporate,15.5,32,0,496.0,No
+ORD1427,2026-09-01,West,Office Supplies,Retail,15.5,22,,341.0,No
+ORD1400,2026-07-09,East,Electronics,Corporate,120.0,8,0,960.0,No
+ORD1729,2026-08-19,East,Office Supplies,Corporate,15.5,28,15,368.9,Yes
+ORD1741,2026-08-22,West,Electronics,Corporate,120.0,5,0,600.0,No
+ORD1301,2026-07-09,West,Furniture,Retail,450.0,3,10,1215.0,No
+ORD1135,2026-07-09,North,Office Supplies,Retail,15.5,19,10,265.05,
+ORD1480,2026-07-02,West,Furniture,Retail,450.0,7,0,3150.0,No
+ORD1673,2026-08-20,North,Office Supplies,Corporate,15.5,29,0,449.5,No
+ORD1733,2026-09-26,South,Furniture,Retail,450.0,9,0,4050.0,No
+ORD1979,2026-09-13,East,Office Supplies,Corporate,15.5,32,0,496.0,No
+ORD1348,2026-09-10,West,Office Supplies,Retail,15.5,15,15,197.62,No
+ORD1702,2026-09-23,North,Furniture,Retail,450.0,9,0,4050.0,
+ORD1602,2026-07-27,East,Office Supplies,Retail,15.5,34,15,447.95,Yes
+ORD1225,2026-08-13,West,Electronics,Corporate,120.0,8,20,768.0,No
+ORD1520,2026-09-27,North,Furniture,Retail,450.0,5,5,2137.5,No
+ORD1883,2026-09-19,South,Furniture,Corporate,450.0,2,0,900.0,No
+ORD1449,2026-09-28,South,Furniture,Corporate,450.0,6,15,2295.0,No
+ORD1353,2026-09-27,North,Electronics,Corporate,120.0,6,0,720.0,No
+ORD1481,2026-09-11,EAST,Office Supplies,Corporate,15.5,11,5,161.97,No
+ORD1197,2026-07-06,South,Office Supplies,Corporate,15.5,25,5,368.12,No
+ORD1978,2026-09-06,South,Office Supplies,Retail,15.5,12,10,167.4,N
+ORD1295,2026-08-01,East,Furniture,Corporate,450.0,9,0,4050.0,No
+ORD1166,2026-07-04,North,Furniture,Retail,450.0,2,5,855.0,No
+ORD1022,2026-07-09,West,Furniture,Retail,450.0,8,15,3060.0,N
+ORD1946,21/08/2026,South,Office Supplies,Corporate,15.5,36,5,530.1,No
+ORD1715,2026-09-19,South,Electronics,Retail,120.0,9,5,1026.0,No
+ORD1460,2026-07-12,West,Office Supplies,Corporate,15.5,26,0,403.0,No
+ORD1356,2026-08-29,West,Electronics,Corporate,120.0,2,10,216.0,No
+ORD1662,2026-09-14,East,Furniture,Retail,450.0,1,0,450.0,No
+ORD1638,2026-07-04,South,Electronics,Retail,120.0,4,10,,No
+ORD1507,13/09/2026,East,Furniture,Retail,450.0,4,5,1710.0,No
+ORD1931,2026-07-10,NORTH,Furniture,Retail,450.0,4,0,1800.0,No
+ORD1485,2026-08-17,North,Office Supplies,Retail,15.5,22,10,306.9,No
+ORD1428,2026-09-05,South,Office Supplies,Retail,15.5,10,5,147.25,No
+ORD1664,2026-08-30,East,Electronics,Retail,120.0,2,0,264.0,No
+ORD1275,2026-08-01,South,Electronics,corporate,120.0,5,10,540.0,No
+ORD1066,2026-07-26,North,Electronics,Corporate,120.0,10,10,1080.0,No
+ORD1567,2026-07-17,North,Office Supplies,Retail,15.5,34,10,474.3,No
+ORD1324,02/09/2026,East,Office Supplies,Retail,15.5,36,20,446.4,No
+ORD1591,2026-08-27,South,Office Supplies,Corporate,15.5,14,5,206.15,No
+ORD1933,2026-07-13,West,Office Supplies,Retail,15.5,17,0,263.5,No
+ORD1020,2026-09-06,West,Furniture,Retail,450.0,2,20,720.0,No
+ORD1541,2026-08-28,South,Furniture,Retail,450.0,8,0,3600.0,No
+ORD1063,2026-08-08,South,Furniture,Retail,450.0,6,5,2565.0,No
+ORD1732,2026-07-06,North,Furniture,Retail,450.0,7,10,2835.0,Yes
+ORD1238,2026-07-24,South,Electronics,Retail,120.0,5,10,540.0,No
+ORD1998,2026-07-29,EAST,Electronics,Corporate,120.0,5,0,600.0,No
+ORD1837,2026-09-16,North,Office Supplies,Corporate,15.5,16,15,210.8,No
+ORD1695,2026-08-06,South,Furniture,Retail,450.0,9,10,3645.0,Yes
+ORD1627,2026-09-26,East,Electronics,Corporate,120.0,1,10,108.0,No
+ORD1743,2026-09-15,North,Office Supplies,Retail,15.5,35,0,542.5,No
+ORD1606,2026-09-01,West,Office Supplies,Retail,15.5,13,10,181.35,No
+ORD1526,2026-07-20,West,Electronic,retail,15.5,11,15,144.92,No
+ORD1498,2026-08-17,East,Furniture,Retail,450.0,2,5,855.0,No
+ORD1410,2026-09-20,East,Furniture,Retail,450.0,5,0,2250.0,No
+ORD1500,2026-07-31,West,Office Supplies,Corporate,15.5,30,10,418.5,No
+ORD1038,2026-08-01,East,Electronics,Retail,120.0,10,5,1140.0,No
+ORD1298,2026-09-04,South,Electronics,Retail,120.0,7,5,798.0,No
+ORD1568,2026-07-20,West,Furniture,Corporate,450.0,10,10,4050.0,No
+ORD1749,2026-07-05,East,Furniture,Corporate,450.0,1,15,382.5,No
+ORD1611,2026-09-05,West,Furniture,Retail,450.0,1,20,360.0,No
+ORD1593,2026-08-05,West,Electronics,Corporate,120.0,8,5,912.0,No
+ORD1755,11/08/2026,East,Office Supplies,Corporate,15.5,12,0,186.0,No
+ORD1508,2026-08-18,East,Furniture,Corporate,450.0,3,0,1485.0,No
+ORD1869,2026-09-04,North,Office Supplies,Corporate,15.5,25,0,387.5,No
+ORD1426,2026-09-23,South,Office Supplies,Retail,15.5,18,5,265.05,No
+ORD1443,2026-08-01,East,Office Supplies,Corporate,15.5,29,10,404.55,
+ORD1731,2026-09-15,east,Electronics,Retail,120.0,8,5,820.8,No
+ORD1868,2026-08-28,North,Office Supplies,Corporate,15.5,16,0,248.0,Yes
+ORD1646,2026-09-12,North,Furniture,retail,450.0,9,0,4050.0,No
+ORD1106,2026-07-29,West,Electronics,Corporate,120.0,5,15,510.0,No
+ORD1009,2026-09-24,South,Office Supplies,Corporate,15.5,15,5,220.88,No
+ORD1342,2026-09-20,South,Office Supplies,Retail,15.5,27,5,397.57,No
+ORD1053,2026-07-14,South,Electronics,Retail,120.0,4,10,432.0,No
+ORD1402,2026-07-16,East,Electronics,Corporate,120.0,6,10,648.0,No
+ORD1854,2026-07-10,North,Electronics,Corporate,120.0,8,15,816.0,No
+ORD1850,26/08/2026,East,Electronics,Retail,120.0,10,0,1200.0,No
+ORD1584,2026-08-07,West,Electronics,Corporate,120.0,6,20,576.0,Yes
+ORD1302,2026-09-21,West,Electronics,Corporate,120.0,8,20,768.0,No
+ORD1207,2026-07-05,East,Office Supplies,Corporate,15.5,29,0,449.5,No
+ORD1249,2026-08-02,North,Office Supplies,Retail,15.5,24,5,353.4,No
+ORD1600,2026-07-21,North,Office Supplies,Corporate,15.5,14,,195.3,No
+ORD1461,2026-08-01,East,Electronics,Corporate,120.0,1,0,120.0,No
+ORD1881,2026-07-12,North,Office Supplies,Retail,15.5,34,15,447.95,No
+ORD1021,2026-08-09,North,Electronics,Retail,120.0,2,0,240.0,No
+ORD1483,2026-09-16,south,Electronics,Retail,120.0,10,5,1140.0,No
+ORD1497,05/09/2026,West,Electronics,Retail,120.0,9,20,864.0,No
+ORD1456,2026-09-17,West,Electronics,Retail,120.0,3,10,324.0,No
+ORD1720,2026-09-10,East,Office Supplies,Retail,15.5,9,0,139.5,No
+ORD1757,2026-09-09,South,Office Supplies,Corporate,15.5,14,0,217.0,No
+ORD1157,2026-09-27,South,Furniture,Corporate,450.0,6,0,2700.0,No
+ORD1925,21/07/2026,North,Electronics,Retail,120.0,4,10,432.0,No
+ORD1171,2026-08-24,South,Electronics,Corporate,120.0,8,0,960.0,No
+ORD1776,2026-09-21,North,Electronics,Retail,120.0,9,15,918.0,No
+ORD1023,2026-09-06,West,Furniture,Retail,450.0,9,20,3240.0,No
+ORD1433,2026-07-16,North,Office Supplies,retail,15.5,7,0,108.5,No
+ORD1486,2026-09-26,North,Office Supplies,Retail,15.5,33,10,460.35,No
+ORD1152,14/07/2026,East,Furniture,Corporate,450.0,9,0,4050.0,No
+ORD1475,2026-08-30,East,Electronics,Retail,120.0,7,15,785.4,No
+ORD1789,2026-07-02,West,Furniture,Retail,450.0,9,0,4050.0,No
+ORD1309,2026-07-28,West,Office Supplies,Retail,15.5,23,0,356.5,No
+ORD1089,2026-09-03,East,Electronics,Retail,120.0,8,0,960.0,No
+ORD1960,2026-08-04,North,Furniture,Retail,450.0,6,0,2700.0,No
+ORD1552,2026-07-17,North,Office Supplies,Corporate,15.5,25,5,368.12,No
+ORD1809,2026-07-31,South,Furniture,Corporate,450.0,7,0,3150.0,No
+ORD1879,2026-08-31,West,Office Supplies,Retail,15.5,36,0,558.0,No
+ORD1642,2026-07-31,West,Electronics,Retail,120.0,4,10,432.0,No
+ORD1863,2026-07-23,East,Electronics,Retail,120.0,8,5,912.0,No
+ORD1447,04/08/2026,East,Office Supplies,Corporate,15.5,19,5,279.77,No
+ORD1248,2026-07-21,South,Office Supplies,Retail,15.5,38,15,500.65,No
+ORD1666,2026-07-17,North,Office Supplies,Retail,15.5,27,15,355.72,No
+ORD1149,2026-08-13,West,Furniture,Retail,450.0,4,15,1530.0,No
+ORD1665,2026-07-11,East,Office Supplies,Retail,15.5,20,10,279.0,No
+ORD1493,2026-08-06,North,Electronics,Corporate,120.0,4,15,408.0,No
+ORD1215,2026-08-20,East,Electronics,Corporate,120.0,6,0,720.0,No
+ORD1028,2026-08-30,West,Electronics,Retail,120.0,7,0,840.0,No
+ORD1880,2026-07-02,East,Furniture,Retail,450.0,6,0,2700.0,No
+ORD1193,2026-08-27,East,Office Supplies,Corporate,15.5,25,15,329.38,No
+ORD1713,2026-08-18,North,Electronics,Corporate,120.0,6,15,612.0,No
+ORD1017,2026-09-07,West,Office Supplies,Retail,15.5,23,10,320.85,No
+ORD1836,2026-07-08,West,Office Supplies,Corporate,15.5,12,10,167.4,No
+ORD1115,2026-09-12,East,Electronics,Corporate,120.0,5,5,570.0,No
+ORD1196,2026-07-12,East,Furniture,Retail,450.0,9,20,3240.0,No
+ORD1015,2026-07-15,North,Electronics,Corporate,120.0,10,0,1200.0,No
+ORD1139,2026-07-31,South,Furniture,Retail,450.0,5,5,2137.5,No
+ORD1129,2026-07-31,East,Electronics,Corporate,120.0,1,0,120.0,No
+ORD1090,2026-09-20,West,Furniture,Retail,450.0,3,15,1147.5,No
+ORD1310,2026-09-12,South,Furniture,Corporate,450.0,6,0,2700.0,No
+ORD1824,2026-07-15,East,Office Supplies,Corporate,15.5,33,0,511.5,No
+ORD1991,2026-08-09, South ,Electronics,Retail,120.0,9,10,972.0,No
+ORD1692,2026-08-27,South,Electronics,Retail,120.0,1,10,108.0,No
+ORD1707,2026-08-27,South,Electronics,Corporate,120.0,5,5,570.0,No
+ORD1997,2026-09-11,North,Office Supplies,Retail,15.5,34,10,521.73,No
+ORD1708,2026-08-08,North,Office Supplies,Retail,15.5,25,0,387.5,No
+ORD1370,2026-09-07,North,Electronics,Retail,120.0,5,10,540.0,No
+ORD1632,2026-07-21,North,Electronics,Retail,120.0,7,0,840.0,No
+ORD1833,2026-07-31,East,Furniture,Retail,450.0,6,10,2430.0,No
+ORD1634,2026-09-13,South,Office Supplies,Retail,15.5,17,5,250.32,No
+ORD1311,2026-09-23,East,Furniture,Retail,450.0,9,15,3442.5,No
+ORD1499,2026-08-05,East,Office Supplies,Retail,15.5,24,0,372.0,No
+ORD1744,2026-08-30,East,Electronics,Corporate,120.0,8,5,912.0,No
+ORD1617,2026-07-16,North,Office Supplies,Corporate,15.5,39,10,544.05,N
+ORD1763,2026-09-12,West,Electronics,Corporate,120.0,1,0,120.0,No
+ORD1674,19/09/2026,North,Office Supplies,Corporate,15.5,22,0,,No
+ORD1890,2026-08-14,South,Furniture,Corporate,,8,10,3240.0,No
+ORD1415,2026-08-04,East,Electronics,Corporate,120.0,6,10,648.0,No
+ORD1709,2026-09-27,West,Office Supplies,Retail,15.5,14,0,217.0,No
+ORD1472,2026-08-17,North,Electronics,Retail,120.0,5,0,600.0,No
+ORD1489,2026-09-06,West,Electronics,Retail,120.0,4,20,384.0,Yes
+ORD1672,2026-08-07,East,Office Supplies,Retail,15.5,17,0,,No
+ORD1176,2026-09-10,West,Office Supplies,Corporate,15.5,40,0,620.0,No
+ORD1014,2026-09-13,South,Electronics,Corporate,120.0,9,5,1026.0,No
+ORD1120,2026-07-01,East,Furniture,Retail,450.0,4,5,1710.0,No
+ORD1405,2026-08-20,South,Electronics,Corporate,120.0,4,5,456.0,No
+ORD1006,2026-08-28,East,Office Supplies,Retail,15.5,40,0,,No
+ORD1019,2026-09-20,East,Electronics,Retail,120.0,3,5,342.0,No
+ORD1548,2026-07-25,North,Office Supplies,Retail,15.5,17,10,237.15,No
+ORD1445,2026-08-10,East,Electronics,corporate,120.0,5,0,600.0,No
+ORD1109,2026-08-27,East,Furniture,Retail,450.0,5,10,2025.0,No
+ORD1690,2026-09-29,South,Electronics,Corporate,120.0,4,5,456.0,No
+ORD1742,2026-07-17,North,Office Supplies,Corporate,15.5,22,5,323.95,No
+ORD1266,2026-09-04,North,Office Supplies,Retail,15.5,30,20,372.0,No
+ORD1619,2026-08-31,West,Electronics,Retail,120.0,10,0,1200.0,No
+ORD1765,2026-08-28,East,Electronics,Retail,120.0,5,0,600.0,No
+ORD1081,2026-08-11,South,Office Supplies,Retail,15.5,31,0,480.5,No
+ORD1190,2026-07-22,North,Furniture,Retail,450.0,4,15,1530.0,No
+ORD1217,2026-08-30,East,Electronics,Corporate,120.0,8,5,912.0,N
+ORD1192,2026-09-22,North,Office Supplies,Corporate,15.5,34,10,474.3,No
+ORD1830,2026-07-02,South,Office Supplies,Retail,15.5,25,20,310.0,No
+ORD1893,2026-09-28,NORTH,Electronics,Retail,120.0,1,0,120.0,No
+ORD1941,2026-08-26,North,Furniture,Corporate,450.0,7,0,3150.0,No
+ORD1990,2026-07-07,East,Electronics,Retail,120.0,3,0,360.0,No
+ORD1350,2026-07-10,South,Office Supplies,corporate,15.5,36,5,530.1,No
+ORD1272,2026-09-27,North,Furniture,Corporate,450.0,8,15,3060.0,No
+ORD1828,2026-07-15,North,Furniture,Retail,450.0,8,10,3240.0,No
